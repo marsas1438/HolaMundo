@@ -34,9 +34,9 @@ function App() {
         <div className='term2'>
           <Somos></Somos>
           <Objetivos></Objetivos>
-          <UserInfo></UserInfo>
-          <Estudiantes></Estudiantes>
           <Multimedia></Multimedia>
+          <Estudiantes></Estudiantes>
+          <UserInfo></UserInfo>
           <Contacto></Contacto>
         </div>
       </div>
